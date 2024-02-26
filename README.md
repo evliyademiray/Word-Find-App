@@ -1,9 +1,13 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Word-Find-App
+
+This is Word Search App that created by React
+
+In This Case, I aimed to write any word and find about it something
+
+Used axios for API requests.
+Used https://rapidapi.com/archergardinersheridan/api/urban-dictionary7/ API for data
+Used Bootstrap for styling.
+
+
+https://github.com/evliyademiray/Word-Find-App/assets/139562305/dc731205-c9ef-47a3-827d-5d81b242e52d
+
